@@ -7,4 +7,4 @@
 
 ![Virtual Blob Animation](images/VB_anim.gif)
 
-Montaż płytek w obudowie jest prosta. Najpierw należy włożyć baterię (najlepiej przykleić) następnie przygotowaną płytkę wkładamy do obudowy. Górna część zostanie jeszcze zalana żywicą epoksydową żeby była bardziej trwała.
+Assembling the boards inside the enclosure is simple. Start by inserting the battery (it’s best to fix it in place with adhesive). Next, insert the prepared PCB into the enclosure. The `MainBoard` should rest on the mounting supports, and the USB connector must align with the dedicated opening.
